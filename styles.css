@@ -1,0 +1,63 @@
+:root{
+    --primary: rgb(248, 203, 158);
+    --secondary: #223634;
+    --tertiary: #CBAD8D;
+    --bg: #F1EDE6;
+}
+
+p{
+    font-family: "IBM Plex Sans", sans-serif;
+    font-size: 15px;
+}
+
+
+h1{
+    font-size: 40px;
+    font-family: "Playwrite GB S", cursive;
+    background-color: rgb(0, 121, 137);
+    color:white;
+}
+
+h2{
+    font-family: "Playwrite GB S", cursive;
+}
+
+h3{
+    font-family: "Playwrite GB S", cursive;
+}
+
+.user{
+    font-size: 20px;
+}
+
+.picprof{
+    height: 80px;
+    width: 80px;
+    border: 2px solid black;
+    border-radius: 60px;
+}
+
+
+.timeline{
+    font-family: sans-serif;
+    text-align: center;
+
+}
+
+.timelinePhotos{
+    border: 2px solid black;
+    border-radius: 40px;
+    height: 300px;
+}
+
+.icons{
+    height: 150px;
+}
+
+.scrollContent{
+    height: 5000px;
+}
+
+
+
+
